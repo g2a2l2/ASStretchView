@@ -25,6 +25,9 @@ Stretching sides directly. For example by parent container gesture.
 Back to normal state.
 
 
+For using with Swift add #import "ASStretchView.h" to your Bridging-Header
+
+
 
 
 
